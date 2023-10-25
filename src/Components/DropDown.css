@@ -1,0 +1,11 @@
+.wrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.title{
+  font-size: 20px; 
+  font-Weight: 600; 
+  margin: 20px;
+}

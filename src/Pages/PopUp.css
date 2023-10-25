@@ -1,0 +1,25 @@
+.wrapperBox {
+  width: 100%;
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.wrapperPaper {
+  width: 50%;
+  height: 75vh;
+  padding: 10px;
+  position: relative;
+}
+.btnSave {
+  position: absolute;
+  margin: 10px;
+  padding: 10px;
+  right: 150px;
+}
+.btnClose {
+  position: absolute;
+  margin: 10px;
+  padding: 10px;
+  right: 50px;
+}
